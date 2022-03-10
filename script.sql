@@ -1,2 +1,2 @@
 select * from TABLA
-limit 1;
+limit 10;
